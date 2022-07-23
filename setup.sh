@@ -1,5 +1,8 @@
 mkdir -p ~/.streamlit/
 streamlit cache clear
+rm /.streamlit/credentials.toml
+rm /.streamlit/config.toml
+
 echo "\
 [general]\n\
 email=\"21f1006060@student.onlinedegree.iitm.ac.in\"\n\
