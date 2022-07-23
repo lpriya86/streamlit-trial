@@ -3,7 +3,7 @@ streamlit cache clear
 echo "\
 [general]\n\
 email=\"21f1006060@student.onlinedegree.iitm.ac.in\"\n\
-" >~/.streamlit/credentials.toml
+" > ~/.streamlit/credentials.toml
 
 echo "\
 [server]\n\
