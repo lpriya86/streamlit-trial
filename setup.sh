@@ -1,5 +1,5 @@
 mkdir -p ~/.streamlit/
-
+streamlit cache clear
 echo "\
 [general]\n\
 email=\"21f1006060@student.onlinedegree.iitm.ac.in\"\n\
